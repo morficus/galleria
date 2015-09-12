@@ -1,0 +1,29 @@
+{
+  "name": "galleria",
+  "version": "0.0.1",
+  "description": "A self-hosted, non-destructive photo gallery webapp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morficus/galleria.git"
+  },
+  "author": "Maurice Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morficus/galleria/issues"
+  },
+  "homepage": "https://github.com/morficus/galleria#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jscs": "^2.0.0"
+  },
+  "dependencies": {
+    "morgan": "^1.6.1"
+  }
+}
